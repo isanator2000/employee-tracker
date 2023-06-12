@@ -7,7 +7,7 @@ It's important to mention that it's still a WIP as I haven't been able to fix so
 
 ## Demo video and screenshot
 https://drive.google.com/file/d/1hk48URiy1iwiZEUzP62Vo8HErxFm_Dwn/view?usp=drive_link
-
+![screenshot](/images/screenshot.png)
 
 ## Usage
 With this aplication, you can: 
